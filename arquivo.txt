@@ -1,0 +1,2 @@
+Conteudo do arquivo.txt
+testando tags do git
